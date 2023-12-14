@@ -1,13 +1,31 @@
 
 PROYECTO:
+<h1 align="center"> App para una veterinaria </h1> 
 
-App para una veterinaria. 
+![Gold Black   White Playful Pet Treats Food Logo ](https://github.com/Galbickus/MyVet/assets/135274833/c05e3e4e-2ac5-476d-9bfc-f7843e05bb64)
+
+<p align="left">
+   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   </p>
+   <p align="left">
+   <img src="https://img.shields.io/badge/JAVA-red">
+   </p> 
+   <p align="left">
+   <img src="https://img.shields.io/badge/Xampp-%20orange">
+   </p> 
+   <p align="left">
+   <img src="https://img.shields.io/badge/graficos-Java%20Swing-blue">
+   </p>
+
 
 
 Consigna: 
 [3- CLÍNICA VETERINARIA.pdf](https://github.com/Galbickus/MyVet/files/13621645/3-.CLINICA.VETERINARIA.pdf)
 
 https://github.com/Galbickus/MyVet/assets/135274833/c04b1557-026a-4915-aeea-5da11a22660b
+
+
+
 
 Vista de diseñador de la Base de Datos
 
