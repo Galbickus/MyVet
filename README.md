@@ -4,18 +4,18 @@ PROYECTO:
 
 ![Gold Black   White Playful Pet Treats Food Logo ](https://github.com/Galbickus/MyVet/assets/135274833/c05e3e4e-2ac5-476d-9bfc-f7843e05bb64)
 
-<p align="left">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
-   </p>
-   <p align="left">
-   <img src="https://img.shields.io/badge/JAVA-red">
+<p align="left">   
+   </p>  <img src="https://img.shields.io/badge/JAVA-red">
    </p> 
    <p align="left">
    <img src="https://img.shields.io/badge/Xampp-%20orange">
    </p> 
    <p align="left">
-   <img src="https://img.shields.io/badge/graficos-Java%20Swing-blue">
+   <img src="https://img.shields.io/badge/Graficos-Java%20Swing-blue">
    </p>
+   <img src="https://img.shields.io/badge/IDE-Apache%20Netbeans%208.2%20-green">
+   </p>
+
 
 
 
