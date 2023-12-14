@@ -15,6 +15,10 @@ PROYECTO:
    </p>
    <img src="https://img.shields.io/badge/IDE-Apache%20Netbeans%208.2%20-green">
    </p>
+   <img src="https://img.shields.io/badge/MySQL%20-skyblue">
+   </p>
+
+
 
 
 
