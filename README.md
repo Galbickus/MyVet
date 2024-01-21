@@ -70,9 +70,13 @@ Visita de Atención
 Ya que es deseable dar seguimiento de las visitas de tipo “enfermedad” que las mascotas puedan tener, de forma que se puedan diagnosticar y tratar. 
 
 ⮚	También listar visitas de mascotas que hacen un mismo tratamiento. Ejemplo todas las visitas que consistan en un tratamiento de tipo “castración” o “vacunación”.
+
 ⮚	Un método debe permitir agregar una nueva mascota a las que tiene un dueño que se nos indique. Ejemplo: tenía un perro de alias “Capitan”, y se le agrega un gato de alias “Kitty”.
+
 ⮚	Un método entrega una lista de las mascotas de un dueño que ya es existente en el sistema.
+
 ⮚	Un método entrega una lista de las visitas de una mascota que se indique y busque en el sistema.
+
 ⮚	Listar todos los tratamientos que se encuentren en estado activo (1).
 
 ![image](https://github.com/Galbickus/MyVet/assets/135274833/d28f4eb8-afcf-44d9-90df-4a4cfd2dc8b9)
