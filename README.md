@@ -18,11 +18,6 @@ PROYECTO:
    <img src="https://img.shields.io/badge/MySQL%20-skyblue">
    </p>
 
-
-
-
-
-
 Consigna: 
 [3- CLÍNICA VETERINARIA.pdf](https://github.com/Galbickus/MyVet/files/13621645/3-.CLINICA.VETERINARIA.pdf)
 
@@ -79,3 +74,6 @@ Ya que es deseable dar seguimiento de las visitas de tipo “enfermedad” que l
 ⮚	Un método entrega una lista de las mascotas de un dueño que ya es existente en el sistema.
 ⮚	Un método entrega una lista de las visitas de una mascota que se indique y busque en el sistema.
 ⮚	Listar todos los tratamientos que se encuentren en estado activo (1).
+
+![image](https://github.com/Galbickus/MyVet/assets/135274833/d28f4eb8-afcf-44d9-90df-4a4cfd2dc8b9)
+
