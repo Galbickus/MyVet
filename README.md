@@ -4,29 +4,21 @@ PROYECTO:
 
 ![Gold Black   White Playful Pet Treats Food Logo ](https://github.com/Galbickus/MyVet/assets/135274833/c05e3e4e-2ac5-476d-9bfc-f7843e05bb64)
 
-<p align="left">   
-   </p>  <img src="https://img.shields.io/badge/JAVA-red">
-   </p> 
-   <p align="left">
-   <img src="https://img.shields.io/badge/Xampp-%20orange">
-   </p> 
-   <p align="left">
-   <img src="https://img.shields.io/badge/Graficos-Java%20Swing-blue">
-   </p>
-   <img src="https://img.shields.io/badge/IDE-Apache%20Netbeans%208.2%20-green">
-   </p>
-   <img src="https://img.shields.io/badge/MySQL%20-skyblue">
-   </p>
+<img src="https://img.shields.io/badge/JAVA-red">    <img src="https://img.shields.io/badge/Xampp-%20orange">  <img src="https://img.shields.io/badge/Graficos-Java%20Swing-blue">    <img src="https://img.shields.io/badge/IDE-Apache%20Netbeans%208.2%20-green">     <img src="https://img.shields.io/badge/MySQL%20-skyblue">
+
+
 
 Consigna: 
 [3- CLÍNICA VETERINARIA.pdf](https://github.com/Galbickus/MyVet/files/13621645/3-.CLINICA.VETERINARIA.pdf)
+
+<h2 align="center"> Video </h2> 
 
 https://github.com/Galbickus/MyVet/assets/135274833/c04b1557-026a-4915-aeea-5da11a22660b
 
 
 
+<h2 align="center"> Vista de diseñador de la Base de Datos </h2>
 
-Vista de diseñador de la Base de Datos
 
 ![image](https://github.com/Galbickus/MyVet/assets/135274833/d000e8b3-b6a4-48e9-bde2-48e1eb261773)
 
